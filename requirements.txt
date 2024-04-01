@@ -1,0 +1,9 @@
+imutils
+matplotlib
+numpy
+opencv-python
+pandas
+scikit-learn
+streamlit
+syft
+tensorflow
